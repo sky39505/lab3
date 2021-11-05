@@ -1,5 +1,12 @@
 # 重金尋賞這隻兔子
-<img src="https://i.imgur.com/R8HA6MU.jpg">
+<style>
+  larger-image {
+  width: 500px;
+  height: auto;
+  }
+</style>
+
+<img class="large-image" src="https://i.imgur.com/R8HA6MU.jpg">
 
 ### 個人介紹
 
