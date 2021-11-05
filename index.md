@@ -1,6 +1,9 @@
-## 個人介紹
+# 重金尋賞這隻兔子
+<img src="https://i.imgur.com/R8HA6MU.jpg">
 
-目前就讀輔仁大學社會學系四年級
+### 個人介紹
+
+目前就讀輔仁大學四年級，夢想是下輩子成為寵物公主兔兔，不用工作。
 
 ### major in
 <ul>
@@ -8,26 +11,6 @@
   <li>創新創業學程</li>
   <li>跨領域醫療設計思考微學程</li>
 </ul>
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### 興趣
 
