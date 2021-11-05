@@ -31,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### 興趣
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sky39505/lab3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+閱讀、繪畫、攝影、田野調查
 
 ### 聯絡我
 
