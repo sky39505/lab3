@@ -1,6 +1,6 @@
 
 # 重金尋賞這隻兔子
-<img class="large-image" src="https://i.imgur.com/R8HA6MU.jpg"/>
+<img src="https://i.imgur.com/R8HA6MU.jpg" width="350">
 
 ### 個人介紹
 
