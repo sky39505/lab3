@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## 個人介紹
 
-You can use the [editor on GitHub](https://github.com/sky39505/lab3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+目前就讀輔仁大學社會學系四年級
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### major in
+<ul>
+  <li>社會學系</li>
+  <li>創新創業學程</li>
+  <li>跨領域醫療設計思考微學程</li>
+</ul>
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +29,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 興趣
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sky39505/lab3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 聯絡我
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+email:sky.390.moon@gmail.com
