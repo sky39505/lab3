@@ -4,7 +4,7 @@
 <script>
 $(document).ready(function(){
   $("button").click(function(){
-    $("h3").hide();
+    $("p").hide();
   });
 });
 </script>
@@ -13,9 +13,9 @@ $(document).ready(function(){
 
 <h1>重金尋賞這隻兔子</h1>
 <img src="https://i.imgur.com/R8HA6MU.jpg" width="350"><br>
-<h3>有麋鹿和雪花紋</h3>
-<h3>高達110公分</h3>
-<h3>在聖誕節出生</h3>
+<p>有麋鹿和雪花紋<br>
+高達110公分<br>
+在聖誕節出生</p>
 
 <button>看到通知妳</button>
   
