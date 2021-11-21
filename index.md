@@ -13,9 +13,9 @@ $(document).ready(function(){
 
 <h1>重金尋賞這隻兔子</h1>
 <img src="https://i.imgur.com/R8HA6MU.jpg" width="350">
-<p>有麋鹿和雪花紋<br>
+<h3>有麋鹿和雪花紋<br>
 高達110公分<br>
-在聖誕節出生.</p>
+在聖誕節出生.</h3>
 
 <button>看到通知妳</button>
   
