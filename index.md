@@ -18,7 +18,8 @@ $(document).ready(function(){
 <p>在聖誕節出生.</p>
 
 <button>看到通知妳</button>
-<br>
+  
+<br></br>
 <h2>個人介紹</h2>
 <p>目前就讀輔仁大學四年級，夢想是下輩子成為寵物公主兔兔，不用工作。</p>
 
