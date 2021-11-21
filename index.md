@@ -22,7 +22,7 @@ $(document).ready(function(){
 <br>
   
 <h2>個人介紹</h2>
-<p>目前就讀輔仁大學四年級，夢想是下輩子成為寵物公主兔兔，不用工作。</p>
+<h5>目前就讀輔仁大學四年級，夢想是下輩子成為寵物公主兔兔，不用工作。</h5>
 
 <h2>major in</h2>
 <ul>
@@ -32,8 +32,8 @@ $(document).ready(function(){
 </ul>
 
 <h2>興趣</h2>
-<p>閱讀、繪畫、攝影、田野調查</p>
+<h6>閱讀、繪畫、攝影、田野調查</h6>
 
 <h2>聯絡我</h2>
-<p>email:sky.390.moon@gmail.com</p>
+<h7>email:sky.390.moon@gmail.com</h7>
   </body>
