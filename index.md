@@ -1,4 +1,8 @@
-
+<script>
+  $(document).ready(function() {
+  $("button").removeClass("animated bounce");
+    });
+</script>
 # 重金尋賞這隻兔子
 <img src="https://i.imgur.com/R8HA6MU.jpg" width="350">
 
