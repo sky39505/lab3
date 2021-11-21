@@ -1,5 +1,8 @@
 <html>
-<head>
+<body>
+
+<h1>重金尋賞這隻兔子</h1>
+<img src="https://i.imgur.com/R8HA6MU.jpg" width="350"><br>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
@@ -8,16 +11,12 @@ $(document).ready(function(){
   });
 });
 </script>
-</head>
-<body>
-
-<h1>重金尋賞這隻兔子</h1>
-<img src="https://i.imgur.com/R8HA6MU.jpg" width="350"><br>
-<p>有麋鹿和雪花紋<br>
+  <div>
+  <p>有麋鹿和雪花紋<br>
 高達110公分<br>
 在聖誕節出生</p>
 <button>看到通知妳</button>
-  
+</div>
 <p>  
 <br>
   
