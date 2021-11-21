@@ -16,9 +16,9 @@ $(document).ready(function(){
 <p>有麋鹿和雪花紋<br>
 高達110公分<br>
 在聖誕節出生</p>
-
 <button>看到通知妳</button>
   
+<p>  
 <br>
   
 <h2>個人介紹</h2>
