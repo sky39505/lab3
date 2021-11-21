@@ -4,7 +4,7 @@
 <script>
 $(document).ready(function(){
   $("button").click(function(){
-    $("p").hide();
+    $("h3").hide();
   });
 });
 </script>
@@ -12,7 +12,7 @@ $(document).ready(function(){
 <body>
 
 <h1>重金尋賞這隻兔子</h1>
-<img src="https://i.imgur.com/R8HA6MU.jpg" width="350">
+<img src="https://i.imgur.com/R8HA6MU.jpg" width="350"><br>
 <h3>有麋鹿和雪花紋<br>
 高達110公分<br>
 在聖誕節出生.</h3>
@@ -22,7 +22,7 @@ $(document).ready(function(){
 <br>
   
 <h2>個人介紹</h2>
-<h3>目前就讀輔仁大學四年級，夢想是下輩子成為寵物公主兔兔，不用工作。</h3>
+<h4>目前就讀輔仁大學四年級，夢想是下輩子成為寵物公主兔兔，不用工作。</h4>
 
 <h2>major in</h2>
 <ul>
